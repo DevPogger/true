@@ -1,0 +1,2 @@
+getgenv().money = true -- change to false to stop
+loadstring(game:HttpGet("https://raw.githubusercontent.com/logixhot/free-scripts/main/gas-station-tycoon-money.lua", true))()
